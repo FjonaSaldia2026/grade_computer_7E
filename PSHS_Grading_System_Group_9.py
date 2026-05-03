@@ -1,4 +1,4 @@
-print ("Hello and Goodmorning!, Welcome to our grading system for PSHS students.")
+print ("Hello and Good day!, Welcome to our grading system for PSHS students.")
 
 def get_equivalent_and_adjective(grade):
     if grade >= 96:
