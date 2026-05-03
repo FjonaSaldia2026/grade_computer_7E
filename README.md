@@ -1,4 +1,5 @@
 PSHS Grade Calculator
+
 This program computes a PSHS student's grades for each quarter and the final grade. It uses the scores from Written Works, Performance Tasks, and Quarterly Assessment.
 How the Program Works
 
@@ -29,7 +30,7 @@ Adjectival Equivalent
 40–49.99 = Failed on Condition
 Below 40 = Failed
 
-Members
+Members:
 Fjona Rogette Saldia, 
 Al-Shakir Hadji Omar Anwar, 
 Mark John Taruc Malayo.
